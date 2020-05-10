@@ -5,8 +5,8 @@
 
  1. create a folder with the name: mnist_train 
 
- mkdir mnist_train
- cd mnist_train
+  mkdir mnist_train
+  cd mnist_train
 
  2) create 10 folders with the names 0-9, and put inside each one of them, the jpeg file.
  
@@ -16,7 +16,7 @@
  
  5) change to python by insert to cmd: 
 
- python
+   python
 
  6) copy the code from Code.py to the command prompt, and press enter.
 

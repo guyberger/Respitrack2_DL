@@ -1,4 +1,4 @@
-##tfrecord
+## tfrecord
 
  **Images to TFRecord file**
 
@@ -50,6 +50,6 @@
    
    python
 
-**after the installations were completed, move to step (5). **
+**After the installations were completed, move to step (5). **
 
 

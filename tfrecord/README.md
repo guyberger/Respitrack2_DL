@@ -12,10 +12,15 @@
  2) create 10 folders with the names 0-9, and put inside each one of them, the jpeg file.
      
      mkdir 0
+     
      mkdir 1
+     
      .
+     
      .
+     
      .
+     
      mkdir 9
  
  3) create a folder with the name: tfrecord

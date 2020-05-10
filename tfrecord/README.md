@@ -17,7 +17,7 @@
  
  5) change to python by insert to cmd: 
 
-   python
+     python
 
  6) copy the code from Code.py to the command prompt, and press enter.
 

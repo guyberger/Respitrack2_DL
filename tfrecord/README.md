@@ -42,9 +42,13 @@
  https://medium.com/@cl2227619761/creating-tensorflow-tfrecords-file-using-images-ade8f3076131
 
 ## installations:
+
   sudo apt install python-pip
+  
   pip install tensorflow==2.0.0a0
+  
    sudo apt-get install python-pil
+   
    python
 
 after the installations were completed, move to step (5).

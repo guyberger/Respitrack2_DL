@@ -1,4 +1,3 @@
-#Respitrack2_DL
 ##tfrecord
 
  **Images to TFRecord file**
@@ -51,6 +50,6 @@
    
    python
 
-**after the installations were completed, move to step (5).
+**after the installations were completed, move to step (5). **
 
 

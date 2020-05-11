@@ -9,7 +9,13 @@
     
  3. In the terminal, first complete the installations below. 
  
- 4. Run the code by (copy the imageToTfrecord.py file to "tf_Record/inputs" folder):
+ 4. change in the code (imageToTfrecord.py - line 42) : 
+ 
+ 	directory = "/home/mayschwa/Train1/inputs"
+	
+	to your local directory
+ 
+ 5. Run the code by (copy the imageToTfrecord.py file to "tf_Record/inputs" folder):
 
 	python ./imageToTfrecord.py
 

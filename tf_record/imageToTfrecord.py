@@ -19,8 +19,8 @@ def create_tf_example(f, file_name):
     ymins.append(float(row[2]))
     xmaxs.append(float(row[3]))
     ymaxs.append(float(row[4]))
-  classes_text = ["nipple","nipple","belly_button"]
-  classes = [1, 1, 2] 
+  classes_text = ["nipple","belly_button"]
+  classes = [1, 2] 
   tf_example = tf.train.Example(features=tf.train.Features(feature={
         'image/filename': dataset_util.bytes_feature(file_name),
         'image/source_id': dataset_util.bytes_feature(file_name),

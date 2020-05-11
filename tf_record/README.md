@@ -9,10 +9,11 @@
     
  3. In the terminal, first complete the installations below. 
  
- 4. Run the code by (copy the imageToTfrecord.py file to "tf_Record/inputs" folder):
+ 4. Run the code by (copy the imageToTfrecordCV.py file to "tf_Record/inputs" folder):
 
-	python ./imageToTfrecord.py
+	python ./imageToTfrecordCV.py
 
+ 5. remeber to delete the PNG output file in the end !!!
  
 ## resources:
 

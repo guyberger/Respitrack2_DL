@@ -3,7 +3,7 @@
  **Images to TFRecord file**
 
  1. copy to tf_Record/inputs folder the .jpg + .txt files (16 files) from Alon, same as the "example.PNG" picture.
- 2. create a folder with the name: tfrecord
+ 2. create a folder with the name: tfrecord (tf_Record/inputs/tfrecord)
  
      mkdir tfrecord
     

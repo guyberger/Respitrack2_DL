@@ -36,5 +36,5 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
    
    python
 
-**After the installations were completed, move to step (5). **
+**After the installations were completed, move to step (4). **
 

@@ -35,6 +35,7 @@ def create_tf_example(f, file_name):
   y6 = int(ymaxs[2])
   cv2.rectangle(img, (x1, y1), (x2, y2), 255)
   cv2.rectangle(img, (x3, y3), (x4, y4), 255)
+  cv2.rectangle(img, (x5, y5), (x6, y6), 255)
   cv2.imwrite("output.png"+file,img)
   classes_text = ["nipple","belly_button"]
   classes = [1, 2] 

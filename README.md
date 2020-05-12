@@ -6,6 +6,11 @@
 * https://ericzhng.github.io/eric-blogs/2018/10/17/tensorflow-pycharm/
 * Install `tensorflow==2.0` !!! (not 2.1) 
 ##Errors
+####Runtime version doesn't support TPU training
+use `--runtime-version 1.15`
+####AttributeError: 'module' object has no attribute 'v1'
+edit the files and remove 'compat.v1' occurences.
+more info: https://github.com/tensorflow/models/issues/8081
 ####HTTP permission denied when executing export_tflite_ssd_graph.py
 run `gcloud auth application-default login`
 ####Bazel run works only in a workspace
